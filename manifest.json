@@ -1,0 +1,7 @@
+{
+  "domain": "bitfetch",
+  "name": "BitFetch - High Performance Cryptocurrency APIs",
+  "documentation": "https://docs.bitfetch.io",
+  "requirements": [],
+  "codeowners": ["@BitFetch"]
+}

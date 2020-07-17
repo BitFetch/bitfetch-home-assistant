@@ -18,6 +18,7 @@ BitFetch API Documentation: https://docs.bitfetch.io
   - 24 Hour Change Percent (volume-weighted average across all exchanges)
   - Price and Volume Data For Every Exchange
   - Timestamp of time data was last updated
+
 ![BitFetch HA Sensor 2](https://github.com/BitFetch/bitfetch-home-assistant/raw/master/img/BitFetch_HA_Sensor_2.jpg)
   
 # HA Configuration

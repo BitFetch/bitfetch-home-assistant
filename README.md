@@ -9,6 +9,7 @@ Get your FREE API Key at https://bitfetch.io
 BitFetch API Documentation: https://docs.bitfetch.io
 
 # HA Integration Features
+![BitFetch HA Sensor 1](https://github.com/BitFetch/bitfetch-home-assistant/raw/master/img/BitFetch_HA_Sensor_1.jpg)
 - Adds a `sensor.bitfetch_<pair>` sensor to Home Assistant
 - Supports all trading pairs BitFetch supports (Including XUSD pairs if you have a paid plan)
 - Supports any update frequency, as low as 1 second
@@ -17,6 +18,7 @@ BitFetch API Documentation: https://docs.bitfetch.io
   - 24 Hour Change Percent (volume-weighted average across all exchanges)
   - Price and Volume Data For Every Exchange
   - Timestamp of time data was last updated
+![BitFetch HA Sensor 2](https://github.com/BitFetch/bitfetch-home-assistant/raw/master/img/BitFetch_HA_Sensor_2.jpg)
   
 # HA Configuration
 1. Install this integration via HACS

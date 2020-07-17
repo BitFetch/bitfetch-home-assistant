@@ -1,8 +1,10 @@
 # bitfetch-home-assistant
-Home Assistant integration for BitFetch.io Cryptocurrency Market Data APIs. 
+Official Home Assistant Integration for BitFetch.io Cryptocurrency Market Data APIs. 
 
 # About BitFetch
-BitFetch provides High Performance cryptocurrency APIs. We have the fastest cryptocurrency APIs in the industry with servers in over 200 data centers in over 95 countries. We offer a 100% FREE plan with access to all of the crypto trading pairs and exchanges we support with generous API Credit limits. Our paid plans offer even more API Credits, additional features, and faster updates. Get your FREE API Key at https://bitfetch.io
+BitFetch provides High Performance cryptocurrency APIs. We have the fastest cryptocurrency APIs in the industry with servers in over 200 data centers in over 95 countries. We offer a 100% FREE plan with access to all of the crypto trading pairs and exchanges we support with generous API Credit limits. Our paid plans offer even more API Credits, additional features, and faster updates. 
+
+Get your FREE API Key at https://bitfetch.io
 
 BitFetch API Documentation: https://docs.bitfetch.io
 

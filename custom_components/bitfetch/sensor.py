@@ -98,6 +98,7 @@ class BitFetchSensor(Entity):
         attrs[ATTR_PAIR] = self._ticker.get("symbol")
         attrs[ATTR_LAST_UPDATED] = self._ticker.get("last_updated")
         attrs[ATTR_ATTRIBUTION] = ATTRIBUTION
+        attrs["unit_of_measurement"] = self._ticker.get("symbol")
         return attrs
 
     def update(self):

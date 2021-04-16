@@ -120,6 +120,6 @@ class BitFetchData:
         """Get the latest data from bitfetch.io."""
         url = "https://api.bitfetch.io/v1/price/pairs/"
         headers = {"Authorization": self.api_key}
-        data = requests.request("GET", url + self.pair, headers=headers)
+        data = requests.request("GET", url + self.pair, timeout=2, headers=headers)
         data.raise_for_status()
         self.ticker = data.json()

@@ -86,7 +86,7 @@ class BitFetchSensor(Entity):
         return float(self._ticker.get("price"))
 
     @property
-    def device_state_attributes(self):
+    def extra_state_attributes(self):
         """Return the state attributes of the sensor."""
         quotes = self._ticker.get("quotes")
         attrs = {}
